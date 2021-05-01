@@ -1,0 +1,10 @@
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\FinalPostTest.dll
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\FinalPostTest.deps.json
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\FinalPostTest.runtimeconfig.json
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\FinalPostTest.pdb
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\nwesp\source\repos\FinalPostTest\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
